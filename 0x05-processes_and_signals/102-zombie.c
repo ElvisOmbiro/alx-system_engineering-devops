@@ -3,7 +3,7 @@
 #include "unistd.h"
 
 /**
- * infinite_while - a function that runs forever and returns nothing
+ * infinite_while - a function running forever and returns nothing
  * Return: 0 in the end
 */
 int infinite_while(void)
@@ -16,7 +16,7 @@ int infinite_while(void)
 }
 
 /**
- * main - the entry to a program that creats 5 zombie process
+ * main - the entry to a program that creates a zombie process
  * Return: 0 on sucess
 */
 int main(void)
